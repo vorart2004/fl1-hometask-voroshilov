@@ -33,20 +33,24 @@ https://github.com/vorart2004/fl1-hometask-voroshilov/blob/main/hsrp_advanced-do
 ### Задание 2
 
 Bash-script
+
 ![check_nginx_sh](https://github.com/user-attachments/assets/b53d082c-e0f1-4ab4-bd02-ac416b097295)
 
 ---
 keepalived.conf
+
 ![keepalived_conf](https://github.com/user-attachments/assets/2cff3703-0d8b-4b29-bf08-ef77c649b82b)
 
 ---
 
 1 ситуация
+
 ![state_1](https://github.com/user-attachments/assets/8006bdb7-df20-4927-80e7-3195ec08d9d9)
 
 ---
 
 выключаем ngnix и после этого:
+
 
 ![state_2](https://github.com/user-attachments/assets/a1f9d85d-0800-462d-a7c0-a24fabc65bf7)
 
